@@ -1,0 +1,34 @@
+@import url(reset.css);
+
+
+.info{
+   color: green;
+}
+
+.history {
+   color: red;
+}
+
+.interesting {
+   color: blueviolet;
+}
+
+
+.title,
+.main__title{
+   color: blueviolet;
+}
+
+p {
+   color: grey;
+}
+.list 
+
+.main__info {
+   color: blue;
+}
+
+.list li{
+   color: aqua;
+}
+
