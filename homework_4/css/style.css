@@ -1,0 +1,87 @@
+/* ----------------- */
+/* --RESET STYLES--- */
+/* ----------------- */
+@import url("reset.css");
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;500;700&family=Oswald:wght@300;500;700&family=Poppins:wght@300;500&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Sofia+Sans+Extra+Condensed:ital,wght@0,300;0,500;0,700;1,300&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+
+@font-face {
+	font-family: 'adventureregular';
+	src: url('../fonts/adventure-webfont.woff2') format('woff2'),
+url('../fonts/adventure-webfont.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+
+
+
+@font-face {
+	font-family: 'evangelienormal';
+	src: url('../fonts/evangelie-webfont.woff2') format('woff2'),
+url('../fonts/evangelie-webfont.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+
+}
+
+
+
+header{
+	font-size: 30px;
+	font-family:"Nunito", serif;
+	color: rgba(101, 103, 104, 0.726);
+	text-shadow: 2px 2px 2px rgb(83, 7, 7);
+	
+}
+h1{
+	font-size: 40px;
+	font-style: normal;
+	font-weight: bold;
+	text-decoration: underline;
+	letter-spacing: 30px;
+}
+
+.main__info{
+	font-family: "Sofia Sans Extra Condensed", sans-serif;
+	font-size: 20px;
+	line-height: 2;
+	text-indent: 30px;
+} 
+
+.list__info{
+	font-size: 40px;
+	color: rgba(137, 43, 226, 0.644);
+
+}
+
+.list{
+font-family: "Pacifico" ;
+font-size: 24px;
+} 
+
+.title {
+	font-family: "evangelienormal";
+
+	font-size: 40px;
+	font-weight: 500;
+	text-decoration: underline;
+
+
+}
+
+
+.subtitle {
+font-style: italic; ;
+}
+
+ul li{
+	text-decoration: overline;
+}
